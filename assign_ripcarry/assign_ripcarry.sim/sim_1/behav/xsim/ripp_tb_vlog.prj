@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../assign3_fulladder/assign3_fulladder.srcs/sources_1/new/fulladder.v" \
+"../../../../assign_ripcarry.srcs/sources_1/new/rip_car_add.v" \
+"../../../../assign_ripcarry.srcs/sim_1/new/ripp_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

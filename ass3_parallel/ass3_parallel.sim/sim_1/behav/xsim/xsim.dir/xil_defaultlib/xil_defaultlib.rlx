@@ -1,0 +1,8 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/jayaa/Documents/Vivado/ass3_parallel/ass3_parallel.sim/sim_1/behav/xsim/glbl.v,1513215260,verilog,,,,glbl,,,,,,,,
+C:/Users/jayaa/Documents/Vivado/ass3_parallel/ass3_parallel.srcs/sim_1/new/parallel_tb.v,1650445693,verilog,,,,parallel_tb,,,,,,,,
+C:/Users/jayaa/Documents/Vivado/ass3_parallel/ass3_parallel.srcs/sources_1/new/main.v,1650445635,verilog,,C:/Users/jayaa/Documents/Vivado/ass3_parallel/ass3_parallel.srcs/sources_1/new/paralleladd.v,,main,,,,,,,,
+C:/Users/jayaa/Documents/Vivado/ass3_parallel/ass3_parallel.srcs/sources_1/new/paralleladd.v,1650445454,verilog,,C:/Users/jayaa/Documents/Vivado/ass3_parallel/ass3_parallel.srcs/sim_1/new/parallel_tb.v,,fulladder,,,,,,,,

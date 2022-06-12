@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Apr 20 17:50:22 2022
+# Process ID: 1148
+# Current directory: C:/Users/jayaa/Documents/Vivado/assign_ripcarry/assign_ripcarry.runs/synth_1
+# Command line: vivado.exe -log rip4bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rip4bit.tcl
+# Log file: C:/Users/jayaa/Documents/Vivado/assign_ripcarry/assign_ripcarry.runs/synth_1/rip4bit.vds
+# Journal file: C:/Users/jayaa/Documents/Vivado/assign_ripcarry/assign_ripcarry.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source rip4bit.tcl -notrace
