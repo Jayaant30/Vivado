@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Mar 24 09:55:58 2022
+# Process ID: 1220
+# Current directory: C:/Users/jayaa/Documents/Vivado/assign1_halfadder/assign1_halfadder.runs/synth_1
+# Command line: vivado.exe -log Half_add.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Half_add.tcl
+# Log file: C:/Users/jayaa/Documents/Vivado/assign1_halfadder/assign1_halfadder.runs/synth_1/Half_add.vds
+# Journal file: C:/Users/jayaa/Documents/Vivado/assign1_halfadder/assign1_halfadder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Half_add.tcl -notrace
